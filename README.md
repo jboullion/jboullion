@@ -9,7 +9,7 @@
 
 ⏳ When I have free time I like to work on all sorts of things!
 
-🚀 I am the IT director at [Nexus Aurora](https://nexusaurora.org/). We are a non-profit which incubates open source projects with a focus on human space settlement.
+🚀 I am the IT director at [Nexus Aurora](https://nexusaurora.org/). We are a volunteer organization which incubates open source projects with a focus on human space settlement.
 
 ☀️ I work with [RENEW Wisconsin](https://www.renewwisconsin.org/) to help them achive their goals of enacting government legislation to further the growth of renewable energy in my home state.
 
