@@ -19,4 +19,4 @@
 
 ♟️ I also recently started learning chess!
 
-🎲 Currently my favorite stack is all Typescript with a Vue based front end and Express.js based backend. Check out one of my recent toys I made to experiment with this stack: [Emoji Games](https://emojis.jboullion.com/)!
+🎲 Currently my favorite stack is all Typescript with a Vue based front end and Express.js based backend. Check out one of my recent toys I made to experiment with this stack: [Emoji Games](https://emoji-games.herokuapp.com/)!
