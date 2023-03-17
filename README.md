@@ -9,4 +9,4 @@
 
 🎮 I love to play around with Unreal Engine, Blender, and ThreeJS when I get the chance!
 
-🎲 Currently my favorite stack is all Typescript with a Vue based front end and Express.js based backend. Check out one of my recent toys I made to experiment with this stack: [Emoji Games](https://emoji-games.herokuapp.com/)!
+⭐ Currently my favorite stack is all Typescript with a Vue based front end and Express.js based backend.
