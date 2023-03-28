@@ -3,7 +3,7 @@
 
 💻 I am a full stack developer who loves to work on a little bit of everything.
 
-🚀 I am the IT director at [Nexus Aurora](https://nexusaurora.org/). We are a volunteer organization which incubates open source projects with a focus on human space settlement. I designed and developed their website in a custom WordPress theme. I also created a [couple of tools](https://nexusaurora.org/calculators/) about important space settlement concepts.
+🚀 I am the IT director at [Nexus Aurora](https://nexusaurora.org/). We are a volunteer organization which incubates open source projects with a focus on human space settlement. I designed and developed their website in a custom WordPress theme. I also created a [couple of tools](https://nexusaurora.org/calculators/) about important space settlement concepts which are hosted on the Nexus Aurora website.
 
 ☀️ I work with [RENEW Wisconsin](https://www.renewwisconsin.org/) to help them achive their goals of enacting government legislation to further the growth of renewable energy in my home state.
 
