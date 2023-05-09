@@ -5,6 +5,8 @@
 
 🚀 I am the IT director at [Nexus Aurora](https://nexusaurora.org/). We are a volunteer organization which incubates open source projects with a focus on human space settlement.
 
+🛸 I run a site called [Space Calcs](https://space-calcs.netlify.app/) with various tools and calculators for learning about important concepts in space. 
+
 ☀️ I work with [RENEW Wisconsin](https://www.renewwisconsin.org/) to help them achive their goals of enacting government legislation to further the growth of renewable energy in my home state.
 
 🎮 I love to play around with Unreal Engine, Blender, and ThreeJS when I get the chance!
