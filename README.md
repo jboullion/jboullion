@@ -9,6 +9,4 @@
 
 🛸 I run a site called [Space Calcs](https://spacecalcs.com/) with various tools and calculators for learning about important concepts in space. 
 
-🎲 A recent project I have been tinkering with is [Emoji Games](https://emoji-games.up.railway.app/). A place to create fun little games and experiment with [NestJS](https://nestjs.com/) and [Vue 3](https://vuejs.org/).
-
 🎮 I love to play around with Unreal Engine, Blender, and ThreeJS when I get the chance!
