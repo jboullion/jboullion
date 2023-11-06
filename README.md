@@ -1,5 +1,5 @@
-##  Hi! 👋
-### My name is James Boullion
+<h1>Hi! 👋</h1>
+<h2>My name is James Boullion</h2>
 
 💻 I am a full stack developer who loves to work on a little bit of everything.
 
