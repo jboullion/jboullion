@@ -1,7 +1,7 @@
 <h1>Hi! 👋</h1>
 <h2>My name is James Boullion</h2>
 
-💻 I am a full stack developer who loves to work on a little bit of everything.
+💻 I am a front and back end developer who loves to work on a little bit of everything.
 
 🚀 I am the IT director at [Nexus Aurora](https://nexusaurora.org/). We are a volunteer organization which incubates open source projects with a focus on human space settlement.
 
