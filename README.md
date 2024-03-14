@@ -3,7 +3,7 @@
 
 💻 I am a front and back end developer who loves to work on a little bit of everything.
 
-🚀 I am the volunteer as the IT director at [Nexus Aurora](https://nexusaurora.org/). We are a volunteer organization which incubates open source projects with a focus on human space settlement.
+🚀 I volunteer as the IT director at [Nexus Aurora](https://nexusaurora.org/). We are a volunteer organization which incubates open source projects with a focus on human space settlement.
 
 ☀️ I work with [RENEW Wisconsin](https://www.renewwisconsin.org/), and other renewable energy non-profits, to help them achive their goals of enacting government legislation to further the growth of renewable energy in my home state.
 
