@@ -3,7 +3,7 @@
 
 💻 I am a fullstack developer from Madison, WI who loves to work on a little bit of everything.
 
-🚀 I volunteer with [Nexus Aurora](https://nexusaurora.org/). We are a community based organization which incubates projects with a focus on space settlement and education.
+🚀 I volunteer with [Nexus Aurora](https://nexusaurora.org/) to provide software development and IT expertise. We are a community based organization which incubates projects with a focus on space settlement and education.  
 
 ☀️ I work with [RENEW Wisconsin](https://www.renewwisconsin.org/) to help them achive their goals of enacting government legislation to further the growth of renewable energy in my home state.
 
