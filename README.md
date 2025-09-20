@@ -11,8 +11,8 @@
 
 
 ☢️ Currently developing: 
-- Simple Calcs (TBD)
-- [NA Academy](https://naacademy.netlify.app/)
+- Simple Calcs (TBD): A set of sites which will provide a wide variety of everyday useful calculators
+- [NA Academy](https://naacademy.netlify.app/): Helping students and and enthusiasts learn about a variety of space topics
 - [Semiconductor Radiation Toolkit](https://rad-toolkit.nexusaurora.org/): Helping engineers find semiconductor parts for aerospace products. Data compiled by [@codeflight1](https://github.com/codeflight1) 
 - [Space Race](https://space-race.nexusaurora.org/): Tracking the progress of rockets, agencies, and nations on the race to space! Data provided by [The Space Devs](https://thespacedevs.com/)
 
