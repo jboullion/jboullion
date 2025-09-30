@@ -3,7 +3,7 @@
 
 💻 I am a fullstack developer from Madison, WI who loves to work on a little bit of everything.
 
-🚀 I volunteer with [Nexus Aurora](https://nexusaurora.org/) to provide software development and IT expertise. We are a community based organization which incubates projects with a focus on space settlement and education.  
+🚀 I volunteer with [Nexus Aurora](https://nexusaurora.org/) to provide software development and IT expertise. We are a community based organization which incubates projects with a focus on space exploration and education.  
 
 🛸 I run a site called [Space Calcs](https://spacecalcs.com/) with various tools and calculators for learning about important concepts in space.
 
