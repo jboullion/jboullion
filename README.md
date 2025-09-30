@@ -17,4 +17,4 @@
 - [Space Race](https://space-race.nexusaurora.org/): Tracking the progress of rockets, agencies, and nations on the race to space! Data provided by [The Space Devs](https://thespacedevs.com/)
 
 
-🎮 I love to play around with Unreal Engine, Blender, ThreeJS, and Roblox Development when I get the chance!
+🎮 I love to play around with Unreal Engine, Blender, Three.js, and Roblox Development when I get the chance!
