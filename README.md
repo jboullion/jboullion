@@ -3,7 +3,7 @@
 
 💻 I am a fullstack developer from Madison, WI who loves to work on a little bit of everything.
 
-📊 I run a site called [Simple Calcs](https://simple-calcs.com/) which provides free and useful tools and calculators for everyday needs 
+📊 I run a site called [Simple Calcs](https://simple-calcs.com/) which provides free and useful tools and calculators for everyday needs. 
 
 🛸 I also run a site called [Space Calcs](https://spacecalcs.com/) with various tools and calculators for learning about and estimating important problems in space.
 
