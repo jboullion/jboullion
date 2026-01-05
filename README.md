@@ -11,4 +11,4 @@
 
 🚀 I volunteer with [Nexus Aurora](https://nexusaurora.org/) to provide software development and IT expertise. We are a community based organization which incubates projects with a focus on space exploration and education.  
 
-🎮 I love to play around with Unreal Engine, Blender, Three.js, and Roblox Development when I get the chance!
+🎮 I love to play around with Unreal Engine, Blender, Three.js when I get the chance!
